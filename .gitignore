@@ -2,3 +2,6 @@ node_modules
 # Keep environment variables out of version control
 .env
 prisma/dev.**
+arquivo.mp3
+tmp/**.mp3
+pnpm-lock.yaml
