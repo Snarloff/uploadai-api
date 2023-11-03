@@ -1,5 +1,7 @@
 # Upload.ia - API
 
+![uploadai-api](https://github.com/Snarloff/uploadai-api/assets/46792575/69105dfb-726c-42d2-8170-05177c3419fa)
+
 <video width="400" height="500" src="https://github.com/Snarloff/uploadai-web/assets/46792575/d5bfad10-5fe4-4b96-86a6-154b1e229eac" type="video/mp4" controls>
 </video>
 
